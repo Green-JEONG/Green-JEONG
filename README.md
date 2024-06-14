@@ -15,7 +15,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Green-JEONG&theme=nord_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Green-JEONG&theme=flat&column=7)](https://github.com/Green-JEONG/)
+[![Green's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Green-JEONG&theme=github-compact)](https://github.com/Green-JEONG/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Green-JEONG&theme=flat&column=7)](https://github.com/Green-JEONG/)
