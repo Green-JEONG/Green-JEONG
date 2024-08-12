@@ -5,10 +5,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="너의+개발+지식을+다+잡아+먹겠다!"&color=45BA76&width=665)](https://git.io/typing-svg) -->
 
 <a href="https://github.com/Green-JEONG"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGreen-JEONG&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-<a href="https://velog.io/@th2gr22n"><img src="https://img.shields.io/badge/Velog.io-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@th2gr22n"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+<a href="https://velog.io/@th2gr22n"><img src="https://img.shields.io/badge/Velog.io-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@th2gr22n"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B7%B8%EB%A6%B0-%EC%A0%95-79562a31b/)](https://www.linkedin.com/in/%EA%B7%B8%EB%A6%B0-%EC%A0%95-79562a31b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th2gr22n@gmail.com)](mailto:th2gr22n@gmail.com)
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/green-jeong/9de00334b94b401f84e6d10855075584"> </a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=th2gr22n)](https://solved.ac/th2gr22n)
 
