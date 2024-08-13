@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 
-
-![snake gif](https://github.com/Green-JEONG/Green-JEONG/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Green-JEONG/Green-JEONG/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 [![Green's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Green-JEONG&theme=github-compact)](https://github.com/Green-JEONG/github-readme-activity-graph)
 
