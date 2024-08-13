@@ -28,4 +28,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+![snake gif](https://github.com/Green-JEONG/Green-JEONG/blob/output/github-contribution-grid-snake.svg)
+
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={th2gr22n}&theme=warm"/> -->
