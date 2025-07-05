@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Green_JEONG&animation=twinkling&fontColor=45be3c&fontSize=70" />
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="저는+매일,+미래를+바꾸기+위해+한+줄을+쓰고+있습니다."&color=45BA76&width=665)](https://git.io/typing-svg) -->
-저는 매일, 미래를 바꾸기 위해 한 줄을 쓰고 있습니다.
+
+안녕하세요 매일, 미래를 바꾸기 위해 한 줄을 쓰고 있는 개발자 정그린입니다.
+
+온라인에서는 <img src="https://github.com/user-attachments/assets/623632de-8298-486a-ba0b-c5712209b97d" width="100" alt="laptop_horok"/>'[호록이](https://www.horok.net/)'라는 캐릭터로 활동하며 창의적은 콘텐츠를 만들고 있습니다.
 
 <!-- 코딩테스트 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=th2gr22n)](https://solved.ac/th2gr22n)
