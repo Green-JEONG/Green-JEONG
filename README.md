@@ -29,11 +29,11 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align= "center">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/html.svg" width="67">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/css.svg" width="73">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/js.svg" width="75"><br>
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/react.svg" width="80">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/tailwindcss.svg" width="130">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/html.svg" width="57">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/css.svg" width="63">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/js.svg" width="65"><br>
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/react.svg" width="70">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/tailwindcss.svg" width="120">
       </td>
     </tr>
   </tbody>
@@ -51,9 +51,9 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align= "center">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/python.svg" width="100"><br><br>
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/mysql.svg" width="120">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/php.svg" width="120">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/python.svg" width="80"><br>
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/mysql.svg" width="100">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/php.svg" width="100">
 <!--           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> -->
 <!--           <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=apache&logoColor=white"> -->
         </p>
@@ -75,8 +75,8 @@ SW Expert Academy -->
     <tr>
       <td align="center">
           <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/docker.svg" width="100"><br>
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/amazon_ec2.svg" width="100">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/github_actions.svg" width="120">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/amazon_ec2.svg" width="80">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/github_actions.svg" width="100">
 <!--           <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> -->
       </td>
     </tr>
@@ -115,22 +115,22 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align="center">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/notion.svg" width="75">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/discord.svg" width="75">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/figma.svg" width="70">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/slack.svg" width="65">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/jira.svg" width="55">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/sourcetree.svg" width="120">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/gitkraken.svg" width="70">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/vscode.svg" width="150">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/pycharm.svg" width="90">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/intellij.svg" width="110">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/obsidian.svg" width="80">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/canva.svg" width="70">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/claude.svg" width="95">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/perplexity.svg" width="110">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/midjourney.svg" width="100">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/chatgpt.svg" width="85">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/notion.svg" width="65">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/discord.svg" width="65">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/figma.svg" width="60">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/slack.svg" width="55">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/jira.svg" width="45">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/sourcetree.svg" width="110">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/gitkraken.svg" width="60">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/vscode.svg" width="140">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/pycharm.svg" width="80">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/intellij.svg" width="100">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/obsidian.svg" width="70">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/canva.svg" width="60">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/claude.svg" width="85">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/perplexity.svg" width="100">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/midjourney.svg" width="90">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/chatgpt.svg" width="75">
       </td>
     </tr>
   </tbody>
