@@ -29,11 +29,11 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align= "center">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/html.svg" width="57">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/css.svg" width="63">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/js.svg" width="65"><br>
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/react.svg" width="70">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/tailwindcss.svg" width="120">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/html.svg" width="47">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/css.svg" width="53">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/js.svg" width="55"><br>
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/react.svg" width="50">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/tailwindcss.svg" width="100">
       </td>
     </tr>
   </tbody>
@@ -51,9 +51,9 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align= "center">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/python.svg" width="80"><br>
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/mysql.svg" width="100">
-        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/php.svg" width="100">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/python.svg" width="70"><br>
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/mysql.svg" width="80">
+        <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/php.svg" width="80">
 <!--           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> -->
 <!--           <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=apache&logoColor=white"> -->
         </p>
@@ -74,9 +74,9 @@ SW Expert Academy -->
   <tbody>
     <tr>
       <td align="center">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/docker.svg" width="100"><br>
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/amazon_ec2.svg" width="80">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/github_actions.svg" width="100">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/docker.svg" width="80"><br>
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/amazon_ec2.svg" width="60">
+          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/github_actions.svg" width="80">
 <!--           <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> -->
       </td>
     </tr>
