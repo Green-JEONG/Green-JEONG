@@ -6,7 +6,7 @@
 
 안녕하세요 매일, 미래를 바꾸기 위해 한 줄을 쓰고 있는 개발자 정그린입니다.
 
-온라인에서는 <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/laptop_horok.svg" width="100" alt="laptop_horok">'[호록이](https://www.horok.net/)'라는 캐릭터로 활동하며 창의적인 콘텐츠를 만들고 있습니다.
+온라인에서는 <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/laptop_horok.svg" width="100" alt="laptop_horok">'[호록이](https://www.horok.com/)'라는 캐릭터로 활동하며 창의적인 콘텐츠를 만들고 있습니다.
 
 <!-- 코딩테스트 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=th2gr22n)](https://solved.ac/th2gr22n)
