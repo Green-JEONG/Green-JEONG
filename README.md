@@ -129,7 +129,7 @@ SW Expert Academy -->
           <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/canva.svg" width="60">
           <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/claude.svg" width="85">
           <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/perplexity.svg" width="100">
-          <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/midjourney.svg" width="90">
+          <img src="https://github.com/user-attachments/assets/9fa9a75e-b3a8-4877-8653-061b42f1aabc" width="90">
           <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/chatgpt.svg" width="75">
       </td>
     </tr>
