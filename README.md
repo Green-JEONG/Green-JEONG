@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4C8EDA?style=flat-rounded)](https://green-jeong.com)
 [![Portfolio PDF](https://img.shields.io/badge/Portfolio-Download%20PDF-F28C28?style=flat-rounded)](https://github.com/Green-JEONG/Green-JEONG/blob/main/portfolio_blur.pdf)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-6AA84F?style=flat-rounded)]([https://yourdomain.com/resume.pdf](https://github.com/Green-JEONG/Green-JEONG/blob/main/resume_blur.pdf))
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-6AA84F?style=flat-rounded)](https://github.com/Green-JEONG/Green-JEONG/blob/main/resume_blur.pdf))
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="저는+매일,+미래를+바꾸기+위해+한+줄을+쓰고+있습니다."&color=45BA76&width=665)](https://git.io/typing-svg) -->
 
