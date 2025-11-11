@@ -15,14 +15,19 @@
   <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👆 날 눌러봐! 👆</b></sub>
 </p>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=th2gr22n)](https://solved.ac/th2gr22n) -->
 
 [![Portfolio PDF](https://img.shields.io/badge/Portfolio%20-Download-F28C28?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Green-JEONG/Green-JEONG/blob/main/portfolio_blur.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4C8EDA?style=for-the-badge&logo=web&logoColor=white)](https://green-jeong.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-6AA84F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Green-JEONG/Green-JEONG/blob/main/resume_blur.pdf)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=th2gr22n)](https://solved.ac/th2gr22n)
 
+<!-- 코딩테스트 -->
+<!-- 백준
+프로그래머스
+구름LEVEL
+SW Expert Academy -->
 
-<table align="" width="100%">
+<table width="100%">
   <tr>
     <th align="center" width="250">FE</th>
     <th align="center" width="250">BE</th>
@@ -49,7 +54,7 @@
   </tr>
 </table>
 
-<table align="" width="100%">
+<table width="100%">
   <tr>
     <th align="center" width="750">Tools I Use</th>
   </tr>
