@@ -43,16 +43,19 @@ SW Expert Academy -->
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/js.svg" width="55"><br>
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/react.svg" width="50">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/tailwindcss.svg" width="100">
+      <img src="https://github.com/user-attachments/assets/a3bb7d5f-96a1-47c3-8506-db06ea54b132" width="50">
     </td>
     <td align="center">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/python.svg" width="70"><br>
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/mysql.svg" width="80">
+      <img src="https://github.com/user-attachments/assets/f891510b-4054-4812-84b9-b9bc0f3a007f" width="150">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/php.svg" width="80">
     </td>
     <td align="center">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/docker.svg" width="80"><br>
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/amazon_ec2.svg" width="60">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/github_actions.svg" width="80">
+      <img src="https://github.com/user-attachments/assets/af15e655-546b-4f77-9a5b-74b7625cae4d" width="90">
     </td>
   </tr>
 </table>
@@ -63,14 +66,17 @@ SW Expert Academy -->
   </tr>
   <tr>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/dcb3e86f-d153-4d6c-9533-f3e696a4d072" width="60">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/notion.svg" width="60">
+      <img src="https://github.com/user-attachments/assets/35d748df-d21c-4069-8677-63adef96c8bf" width="60">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/figma.svg" width="55">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/slack.svg" width="50">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/jira.svg" width="45">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/sourcetree.svg" width="100">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/vscode.svg" width="120">
-      <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/pycharm.svg" width="70">
       <img src="https://github.com/Green-JEONG/Green-JEONG/blob/main/images/icons/intellij.svg" width="90">
+      <img src="https://github.com/user-attachments/assets/5fdaebf6-fe16-4b25-93a6-9b3b6e3236bc" width="90">
+      <img src="https://github.com/user-attachments/assets/c3250aec-ad84-4202-80c3-7388a04f4f2e" width="60">
     </td>
   </tr>
 </table>
