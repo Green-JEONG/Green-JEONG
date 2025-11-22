@@ -6,18 +6,15 @@
 
 ╰───────*──────────────────────────────────────────*───────╯  
 
-</div>
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O</span><br>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.°</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O</span><br>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.°</span>
 
 <p>
   <a href="https://www.horok.co.kr/" target="_blank">
     <img width="200" height="280" alt="horok" src="https://github.com/user-attachments/assets/015c122a-e4ee-414e-89da-66e7980b0179" />
   </a><br>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👆 날 눌러봐! 👆</b></sub>
+  <sub><b>👆 날 눌러봐! 👆</b></sub>
 </p>
-
 
 [![Portfolio PDF](https://img.shields.io/badge/Portfolio%20-Download-F28C28?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Green-JEONG/Green-JEONG/blob/main/portfolio_blur.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4C8EDA?style=for-the-badge&logo=web&logoColor=white)](https://green-jeong.com)
@@ -80,3 +77,5 @@ SW Expert Academy -->
     </td>
   </tr>
 </table>
+
+</div>
