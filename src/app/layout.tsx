@@ -15,7 +15,7 @@ export default function RootLayout({
     <html lang="ko">
       <body className="flex justify-center bg-gray-100 min-h-screen">
         
-        <div className="w-full max-w-[500px] min-h-screen bg-white shadow-2xl flex flex-col relative">
+        <div className="w-full max-w-125 min-h-screen bg-white shadow-2xl flex flex-col relative">
           
           <main className="flex-1 overflow-y-auto">
             {children}
