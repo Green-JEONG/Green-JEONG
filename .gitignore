@@ -10,6 +10,9 @@
 !.yarn/releases
 !.yarn/versions
 
+# pnpm
+.pnpm-store/
+
 # testing
 /coverage
 
@@ -20,18 +23,9 @@
 # production
 /build
 
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
+# env files (보안을 위해 환경변수 파일은 절대 업로드 금지)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +33,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Logs and debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+logs
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.scratch
+
+# Operating Systems / Misc
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.pem

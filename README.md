@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=45BE3C&multiline=true&width=950&height=65&lines=일상의+크고+작은+불편함을+기술로+해결할+때+가장+즐거운+개발자입니다.;캐릭터+'호록이'를+통해+기술을+더+쉽고+친근한+콘텐츠로+전하고+있어요.)
 
-## Getting Started
+<!-- contatcs -->
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<a href="https://www.linkedin.com/in/green-jeong/" target="_blank"><img width="48" alt="linkedin_logo" src="https://github.com/user-attachments/assets/82e0e3bd-8532-49c8-bdc5-1e9788c7d2b4" /></a>&nbsp;
+<a href="https://velog.io/@th2gr22n/posts" target="_blank"><img width="48" alt="velog_logo" src="https://github.com/user-attachments/assets/b281aa83-642e-49a0-ac67-fa5a55b7a8e7" /></a>&nbsp;
+<a href="https://green-jeong.com" target="_blank"><img width="48" alt="gr_logo" src="https://github.com/user-attachments/assets/98b50ccd-60af-4e95-995d-ce155e0c8f46" /></a>&nbsp;
+<a href="https://www.horok.co.kr/horok-tech" target="_blank"><img width="48" alt="horok_logo" src="https://github.com/user-attachments/assets/bfcd942e-1e10-4195-bb4e-11eaef81afd7" /></a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- tech stack -->
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Skills
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Front-end
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwindcss)](https://skillicons.dev)
 
-## Learn More
+### Back-end & Database
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,nodejs,prisma,mysql,supabase,python,pycharm)](https://skillicons.dev)
 
-To learn more about Next.js, take a look at the following resources:
+### DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,githubactions,linux,vercel)](https://skillicons.dev)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Tools & Environment
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pnpm,bash,figma,notion,obsidian,discord)](https://skillicons.dev)
