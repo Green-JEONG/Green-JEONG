@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import BottomNav from "@/components/BottomNav";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,14 +14,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className="flex justify-center bg-gray-100 min-h-screen">
+      <body className="flex justify-center min-h-screen">
         
-        <div className="w-full max-w-125 min-h-screen bg-white shadow-2xl flex flex-col relative">
+        <div className="w-full max-w-3xl min-h-screen bg-[#fefef9] shadow-2xl flex flex-col relative">
           
           <main className="flex-1 overflow-y-auto">
             {children}
           </main>
-          
+
+          <BottomNav />
         </div>
 
       </body>

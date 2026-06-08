@@ -20,27 +20,27 @@ jobs:
       name: github-pages
       url: "${{ steps.deployment.outputs.page_url }}"
     runs-on: ubuntu-latest
+    
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 💡 npm 대신 pnpm을 사용하므로 pnpm 환경을 먼저 세팅합니다.
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v4
         with:
-          version: 9 # 현재 사용 중인 pnpm 메이저 버전에 맞춥니다
+          version: 9
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "pnpm"
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
-        # static_site_generator를 next로 지정하면 깃허브가 Next.js 빌드 캐시를 자동으로 최적화해 줍니다.
-        with:
-          static_site_generator: next
+        uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: pnpm install
@@ -51,7 +51,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out # Next.js가 export하면 결과물이 out 폴더에 생깁니다.
+          path: ./out
 
       - name: Deploy to GitHub Pages
         id: deployment
