@@ -1,3 +1,11 @@
+---
+name: 📋 포트폴리오 퍼블리싱 태스크 템플릿
+about: 정적 디자인 시안을 구현하기 위한 이슈 레이아웃입니다.
+title: 'feat: [구현할 기능 선언]'
+labels: 'enhancement'
+assignees: ''
+---
+
 ## 📌 Goals
 > 프로젝트 초기 기본 레이아웃 구성 및 전역 스타일(CSS) 환경 세팅
 - 
