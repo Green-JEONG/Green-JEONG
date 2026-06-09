@@ -1,7 +1,9 @@
+import PageHeading from "@/components/PageHeading";
+
 export default function Home() {
   return (
-    <div className="p-6">
-      <h1 className="text-xl font-semibold">소개</h1>
+    <div className="">
+      <PageHeading>소개</PageHeading>
     </div>
   );
 }

@@ -1,7 +1,9 @@
+import PageHeading from "@/components/PageHeading";
+
 export default function CareerPage() {
   return (
-    <div className="p-6">
-      <h1 className="text-xl font-semibold">경력</h1>
+    <div className="">
+      <PageHeading>경력</PageHeading>
     </div>
   );
 }
