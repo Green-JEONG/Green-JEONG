@@ -1,0 +1,32 @@
+name: "🐛 Bug Report"
+description: "버그 제보"
+title: "fix: [수정할 버그 선언]"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: "📝 Descriptions"
+      description: "어떤 부분에서 원본 시안과 다르게 나타나거나 오류가 발생하는지 적어주세요."
+      placeholder: "예시: Next.js 구글 폰트가 Tailwind Preflight 스타일에 밀려 h1 태그에 반영되지 않음"
+    validations:
+      required: true
+
+  - type: textarea
+    id: bug-screen
+    attributes:
+      label: "🖼️ Previews"
+      description: "문제가 발생하는 화면 캡처본을 여기에 첨부해 주세요."
+      placeholder: "예시: (사진)"
+    validations:
+      required: false
+
+  - type: textarea
+    id: bug-fix-tasks
+    attributes:
+      label: "🛠️ Tasks"
+      description: "문제를 해결하기 위해 시도할 작업 항목을 적어주세요."
+      value: |
+        - [ ]
+    validations:
+      required: true

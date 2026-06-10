@@ -1,0 +1,40 @@
+name: "✨ Feature Request"
+description: "새로운 기능 추가"
+title: "feat: [구현할 기능 선언]"
+labels: ["feature"]
+body:
+  - type: textarea
+    id: goals
+    attributes:
+      label: "📌 Goals"
+      description: "이번 이슈에서 달성하고자 하는 결과물의 정의를 적어주세요."
+      placeholder: "예시: 프로젝트 초기 기본 레이아웃 구성 및 전역 스타일(CSS) 환경 세팅"
+    validations:
+      required: true
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: "🛠️ Tasks"
+      description: "구현을 완성하기 위해 해결해야 할 세부 체크리스트입니다."
+      placeholder: "예시: `layout.tsx` 구조 잡기 (Header, Main, Footer 영역 분할)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: previews
+    attributes:
+      label: "🖼️ Previews"
+      description: "구현 대상이 되는 원본 디자인 캡처본을 여기에 드래그 앤 드롭 하세요."
+      placeholder: "예시: (사진)"
+    validations:
+      required: false
+
+  - type: textarea
+    id: cautions
+    attributes:
+      label: "⚠️ Cautions"
+      description: "폰트, 정렬, 반응형 등 특별히 오차 없이 맞춰야 할 디테일을 기록합니다."
+      placeholder: "예시: 원본 사진에서 보이는 브라우저 상하좌우 여백(Padding)이 기기별 화면 크기에 관계없이 일정 비율로 유지되도록 반응형 유틸리티 클래스 정밀 적용할 것"
+    validations:
+      required: false
