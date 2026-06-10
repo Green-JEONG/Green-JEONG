@@ -1,0 +1,36 @@
+name: "🎨 Refactor"
+description: "리팩토링 관련 작업"
+title: "refactor: [리팩토링 범위 선언]"
+labels: ["refactor"]
+body:
+  - type: textarea
+    id: refactor-descriptions
+    attributes:
+      label: "📝 Descriptions"
+      description: "기존 코드의 어떤 점을 개선하고 왜 구조를 바꾸려 하는지 적어주세요."
+      value: |
+        > 파편화된 타이틀 스타일을 전역 스타일(globals.css)로 이관하여 유지보수성 향상
+        - 
+    validations:
+      required: true
+
+  - type: textarea
+    id: refactor-tasks
+    attributes:
+      label: "🛠️ Tasks"
+      description: "리팩토링을 위해 수정할 작업 목록입니다."
+      value: |
+        - [ ] 각 페이지별 h1 태그 내 인라인 Tailwind 클래스(`text-3xl`, `font-bold` 등) 제거
+        - [ ] `globals.css` 내 `@layer base` 단에 `h1` 전역 폰트 및 컬러 바인딩
+        - [ ] 중복 사용 중인 공통 컴포넌트 파일 분리 및 절대 경로(`@/components/...`) 최적화
+    validations:
+      required: true
+
+  - type: textarea
+    id: refactor-previews
+    attributes:
+      label: "🖼️ Previews"
+      description: "리팩토링 전/후 구조 비교나 시각적 변화가 있다면 첨부해 주세요."
+      placeholder: "예시: 디렉터리 구조 캡처 또는 UI 검증 사진"
+    validations:
+      required: false
